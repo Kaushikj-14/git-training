@@ -1,0 +1,4 @@
+git status (To know how many files are present in our folder and then after adding we can see the added file will be seen green in color).
+git add name_of_file (To add a file).
+(All added files will be seen in .git folder 
+git add . (To add all the files in the folder).
